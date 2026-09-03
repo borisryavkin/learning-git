@@ -10,7 +10,7 @@ After moving to 🇦🇺 Australia, my career took a few different turns across 
 
 I'm now focusing fully on native iOS🍏 development with Swift🦜.
 
-Rather than starting from 0️⃣, I'm systematically revisiting the computer science and software engineering fundamentals I've learned over the years and applying them in a new language and ecosystem.
+Rather than starting from 0️⃣, I'm systematically revisiting the 🖥️computer science and software engineering fundamentals I've learned over the years and applying them in a new language and ecosystem.
 
 This repository documents the 🐈‍⬛Git portion of that process.
 
@@ -19,7 +19,7 @@ This repository documents the 🐈‍⬛Git portion of that process.
 I'm following Timur Cheberda's iOS🍏 Developer Roadmap as a structured way to refresh the fundamentals, identify gaps, and progress into more advanced iOS🍏 engineering topics.
 
 Roadmap:
-https://boosty.to/somestay?isFromFeed=true
+https://boosty.to/somestay
 
 ## Topics
 
