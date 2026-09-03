@@ -4,9 +4,9 @@ A practical refresher on 🐈‍⬛Git fundamentals, branching, merging, rebasin
 
 ## Why this repository exists
 
-I first started programming back in 🇷🇺 and continued through university, working with languages including C, C++, 🐍Python, and JavaScript.
+I first started programming back in 🇷🇺 Russia and continued through university, working with languages including C, C++, 🐍Python, and JavaScript.
 
-After moving to 🇦🇺, my career took a few different turns across engineering, technical support, hardware, and software-related roles.
+After moving to 🇦🇺 Australia, my career took a few different turns across engineering, technical support, hardware, and software-related roles.
 
 I'm now focusing fully on native iOS🍏 development with Swift🦜.
 
