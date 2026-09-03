@@ -19,7 +19,7 @@ This repository documents the 🐈‍⬛Git portion of that process.
 I'm following Timur Cheberda's iOS🍏 Developer Roadmap as a structured way to refresh the fundamentals, identify gaps, and progress into more advanced iOS🍏 engineering topics.
 
 Roadmap:
-https://boosty.to/somestay?isFromFeed=true
+https://boosty.to/somestay
 
 ## Topics
 
