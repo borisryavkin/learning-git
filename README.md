@@ -10,7 +10,7 @@ After moving to 🇦🇺 Australia, my career took a few different turns across 
 
 I'm now focusing fully on native iOS🍏 development with Swift🦜.
 
-Rather than starting from 0️⃣, I'm systematically revisiting the computer science and software engineering fundamentals I've learned over the years and applying them in a new language and ecosystem.
+Rather than starting from 0️⃣, I'm systematically revisiting the 🖥️computer science and software engineering fundamentals I've learned over the years and applying them in a new language and ecosystem.
 
 This repository documents the 🐈‍⬛Git portion of that process.
 
